@@ -1,7 +1,9 @@
-spring-boot-template
+Qiita-hackathon7
 ====================
 
-My Spring Boot template project
+### Prerequisite
+
+- Java 8+
 
 ### Run
 
